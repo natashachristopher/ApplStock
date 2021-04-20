@@ -1,2 +1,3 @@
 # ApplStock
-Use ML to predict end of day stocks 
+Use ML to predict end of day stocks.
+
